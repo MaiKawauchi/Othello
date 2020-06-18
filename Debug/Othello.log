@@ -1,0 +1,2 @@
+﻿  Othello.cpp
+LINK : fatal error LNK1104: ファイル 'glfw3.lib' を開くことができません。
